@@ -1,0 +1,20 @@
+#Include <s-sharpier>
+
+using namespace std;
+
+int main(){
+
+
+
+int i =  3;
+int y = 8:
+
+if (3<8){
+cout<<"Algorithm already: "<<
+}
+else {
+cout<<"network conexion failed"
+
+}
+
+}
